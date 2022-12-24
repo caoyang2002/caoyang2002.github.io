@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>关于此站</title>
+      <link href="/2022/12/24/about%20this%20project/"/>
+      <url>/2022/12/24/about%20this%20project/</url>
+      
+        <content type="html"><![CDATA[<p>正在准备中……</p><pre><code class="java">/*在_post 文件夹下，新建&amp;&amp;.md 文件基本配置如下：title： 文章标题top： 是否把文章置顶img： 是否给文章定义特色图片，如果不设置，默认从featureimages里面抽取summary： 是否给文章加上摘要，不设置，默认截取文章开头一部分categories： 给文章分类tags： 给文章加标签，可加多个剩下博客书写同csdn一样，可以直接复制过去————————————————版权声明：本文为CSDN博主「伊丶二」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。原文链接：https://blog.csdn.net/qq_41376237/article/details/113475727*/</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
